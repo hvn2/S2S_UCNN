@@ -27,8 +27,8 @@ The Sentinel-2 (S2) constellation provides multispectral images at 10 m,
 **Usage:**
 
 Run the jupyter notebook file and see the results.
-    + The file *S2SingleNet-Final-RR* is for the reduced-resolution evaluation
-    + The file *S2SingleNet-Final-FF* is for full-resolution evaluation
+     + The file *S2SingleNet-Final-RR* is for the reduced-resolution evaluation
+     + The file *S2SingleNet-Final-FF* is for full-resolution evaluation
 
  - Data (preprocessing in Matlab) are in folder *data*
      + A matlab file contains y10, y20, and y60 which are the 10 m, 20 m, and 60 m, respectively.
