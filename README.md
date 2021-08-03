@@ -17,12 +17,13 @@ The Sentinel-2 (S2) constellation provides multispectral images at 10 m,
   publisher={IEEE}
 }
 
-@inproceedings{nguyen2020sure,
+@inproceedings{nguyen2021S2sharpening,
   title={Sharpening the 20 m bands of Sentinel-2 image using an unsupervised Convolutional Neural Network},
   author={Nguyen, Han V and Ulfarsson, Magnus O and Sveinsson, Johannes R},
   booktitle={Proc. IEEE Geosci. Remote Sens. Symp},
   year={2021}
 }
+
 **Usage:**
 
 Run the jupyter notebook file and see the results.
