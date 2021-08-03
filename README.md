@@ -8,8 +8,9 @@ The Sentinel-2 (S2) constellation provides multispectral images at 10 m,
 **Please cite our work if you are interested**
 
  @article{nguyen2021sentinel,
+
   title={Sentinel-2 Sharpening Using a Single Unsupervised Convolutional Neural Network With MTF-Based Degradation Model},
-  
+
   author={Nguyen, Han V and Ulfarsson, Magnus O and Sveinsson, Johannes R and Dalla Mura, Mauro},
 
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
@@ -24,6 +25,7 @@ The Sentinel-2 (S2) constellation provides multispectral images at 10 m,
 }
 
 @inproceedings{nguyen2021S2sharpening,
+
   title={Sharpening the 20 m bands of Sentinel-2 image using an unsupervised Convolutional Neural Network},
 
   author={Nguyen, Han V and Ulfarsson, Magnus O and Sveinsson, Johannes R},
