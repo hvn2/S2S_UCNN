@@ -43,7 +43,7 @@ The Sentinel-2 (S2) constellation provides multispectral images at 10 m, 20 m, a
 
 ## Results
 - **Reduced resolution evaluation**
-![image](result1.png )
+![image](result1.png "a title")
 - **Full resolution evaluation**
-![image](result2.png)
-![image](result3.png)
+![image](result2.png "a title")
+![image](result3.png "a title")
