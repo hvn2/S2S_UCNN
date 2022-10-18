@@ -2,7 +2,7 @@
  Official Pythong codes for the paper "Sentinel 2 sharpening using a single unsupervised convolutional neural network", publised in IEEE JSTARS Vol 14, 2021, pp. 6882-6896.<br>
 Authors: Han V. Nguyen $^\ast$, Magnus O. Ulfarsson $^\ast$,  Johannes R. Sveinsson $^\ast$, and Mauro Dalla Mura $^\dagger$ <br>
 $^\ast$ Faculty of Electrical and Computer Engineering, University of Iceland, Reykjavik, Iceland<br>
-$^\dagger$ GIPSA-Lab, Grenoble Institute of Technology, Saint Martin d’Hères, France.
+$^\dagger$ GIPSA-Lab, Grenoble Institute of Technology, Saint Martin d’Hères, France.<br>
 Email: hvn2@hi.is
 
 **Please cite our work if you are interested**
