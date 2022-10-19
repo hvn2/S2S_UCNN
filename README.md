@@ -1,5 +1,5 @@
 # S2S_UCNN
- Official Pythong codes for the paper "Sentinel 2 sharpening using a single unsupervised convolutional neural network", publised in *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, Vol 14, 2021, pp. 6882-6896.<br><br>
+ Official Python codes for the paper "Sentinel 2 sharpening using a single unsupervised convolutional neural network", publised in *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, Vol 14, 2021, pp. 6882-6896.<br><br>
 **Authors**: Han V. Nguyen $^\ast \dagger$, Magnus O. Ulfarsson $^\ast$,  Johannes R. Sveinsson $^\ast$, and Mauro Dalla Mura $^\ddagger$ <br>
 $^\ast$ Faculty of Electrical and Computer Engineering, University of Iceland, Reykjavik, Iceland<br>
 $^\dagger$ Department of Electrical and Electronic Engineering, Nha Trang University, Khanh Hoa, Vietnam<br>
